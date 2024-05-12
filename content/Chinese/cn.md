@@ -1,13 +1,16 @@
 ---
-title: "【测试】"
+title: "测试文档"
 date: 2024-05-10
 draft: false
 author: ["伟杰"]
+comments: true
+
 description: ""
 tags: [
     "演示",
 ]
 ---
 
-测试文档，从这里慢慢开始我的记录之旅，每一次我的标题都是标准化且清晰的。
+测试文档，从这里慢慢开始我的记录之旅
+
 
